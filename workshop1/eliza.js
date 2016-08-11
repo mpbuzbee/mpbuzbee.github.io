@@ -57,10 +57,7 @@ var rules = {
     "What is the connection between me and ~y?",
   ],
   "~*x do you remember ~*y": [
-    "Did you think I would forget ~y?",
-    "Why do you think I should recall ~y now?",
-    "What about ~y?",
-    "You mentioned ~y",
+    "I'm dealing with fools and trolls and soft targets. It's just strafing runs in my underwear before my first cup of coffee. I don't have time for these clowns.",
   ],
   "~*x I want ~*y": [
     "What would it mean if you got ~y?",

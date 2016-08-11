@@ -57,7 +57,7 @@ var rules = {
     "What is the connection between me and ~y?",
   ],
   "~*x do you remember ~*y": [
-    "I'm dealing with fools and trolls and soft targets. It's just strafing runs in my underwear before my first cup of coffee. I don't have time for these clowns.",
+    "I'm dealing with fools and trolls and soft targets.",
   ],
   "~*x I want ~*y": [
     "What would it mean if you got ~y?",
